@@ -4,6 +4,9 @@ new ideas for es2021 async javascript
 # ideas:
 
 
+
+
+
 ## description
 a new type of async coding
 
